@@ -1,0 +1,4 @@
+﻿  functions.cpp
+c:\users\yusuf aktaş\desktop\ders dosyaları\2020-2021\computer programming\final\pfinal\pfinal\functions.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf aktaş\desktop\ders dosyaları\2020-2021\computer programming\final\pfinal\pfinal\functions.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pfinal.vcxproj -> C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2020-2021\Computer Programming\Final\pfinal\Debug\pfinal.exe
